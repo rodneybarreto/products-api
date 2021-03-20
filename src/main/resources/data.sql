@@ -1,0 +1,3 @@
+insert into Product(name,description,price,photo) values('Caixa de Transporte','Segurança e conforto aos pets na hora de viajar.',55.92,'img/caixa.png');
+insert into Product(name,description,price,photo) values('Comedouro para gatos','Produzido com material de alta qualidade que não acumula sujeira e é fácil de limpar.',9.95,'img/comedouro.png');
+insert into Product(name,description,price,photo) values('Cama Pet Cães e Gatos','Todo conforto para seu pet na hora do soninho.',37.88,'img/cama.png');
