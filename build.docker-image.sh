@@ -7,4 +7,4 @@ docker build . -t rodneybarreto/minipets_products-api:1.0.0
 #docker push rodneybarreto/minipets_products-api:1.0.0
 
 ## Run container
-#docker run --name products-api -p 8081:8081 rodneybarreto/minipets_products-api:1.0.0
+#docker run --name products-api --network=host -p 8081:8081 rodneybarreto/minipets_products-api:1.0.0
